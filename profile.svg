@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="970px" height="450px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="450px" fill="#161b22" rx="17"/>
+
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">root@lightningreflex:/# cat info.txt</tspan>
+<tspan x="15" y="50"></tspan>
+<tspan x="15" y="70">LightningReflex</tspan>
+<tspan x="15" y="90">——————</tspan>
+<tspan x="15" y="110" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
+<tspan x="15" y="130" class="keyColor">Uptime</tspan>: <tspan class="delColor">99%</tspan>
+<tspan x="15" y="150" class="keyColor">Host</tspan>: <tspan class="valueColor">Netherlands</tspan>
+<tspan x="15" y="190" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Software Engineer, Cyber Security</tspan>
+<tspan x="15" y="210" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
+<tspan x="15" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Kotlin, TypeScript, JavaScript, Python, Lua, SQL, Verse, C++, Rust</tspan>
+<tspan x="15" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Web</tspan>: <tspan class="valueColor">Nuxt, Vue, HTML, CSS, JSON</tspan>
+<tspan x="15" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Dutch, English</tspan>
+<tspan x="15" y="330" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft, Fullstack</tspan>
+<tspan x="15" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Programming, Gaming, Musician</tspan>
+<tspan x="15" y="390" class="keyColor">Contact</tspan>:
+<tspan x="15" y="410">——————</tspan>
+<tspan x="15" y="430" class="keyColor">Discord</tspan>: <tspan class="valueColor">@lightningreflex</tspan>
+</text>
+</svg>
